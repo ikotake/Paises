@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Länder</string>
+    <string name="pais">Deutschland</string>
+    <string name="logo_bandeira">Flagge von Deutschland</string>
+    <string name="logo_comida_tipica">"Sauerkraut "</string>
+    <string name="comida">"Sauerkraut "</string>
+</resources>
