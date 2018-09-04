@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الدول</string>
+    <string name="pais">المملكة العربية السعودية</string>
+    <string name="comida">التبولة</string>
+    <string name="logo_bandeira">علم المملكة العربية السعودية</string>
+    <string name="logo_comida_tipica">التبولة</string>
+</resources>
